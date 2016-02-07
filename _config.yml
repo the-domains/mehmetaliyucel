@@ -1,0 +1,28 @@
+name: Mehmet Ali Yücel
+favicon: null
+layout_spectrum: 0.1592043968848884
+typography_spectrum: 0.9751646271906793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11914932518266141
+  lightness: 0.32853737380355597
+  saturation: 0.3895985602866858
+  rhythmicContrast: 0.02220890368334949
+purpose: []
