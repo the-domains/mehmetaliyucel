@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mehmet Ali Yücel]]></title>
         <description><![CDATA[Mehmet Ali Yücel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mehmetaliyucel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 22:46:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 23:46:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mehmetaliyucel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ec7227a-313e-4f6f-b07d-d337e5344efd.jpg">]]></description>
+            <link>https://thegrid.ai/mehmetaliyucel/3002a5ab-41ad-462f-9a7b-53531438ef8b/index.html</link>
+            <guid isPermaLink="false">3002a5ab-41ad-462f-9a7b-53531438ef8b</guid>
+            <pubDate>Sun, 07 Feb 2016 23:46:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Under Construction</p>]]></description>
-            <link>undefined80ad0af3-c734-42f7-81f1-b2f583702089/index.html</link>
+            <link>https://thegrid.ai/mehmetaliyucel/80ad0af3-c734-42f7-81f1-b2f583702089/index.html</link>
             <guid isPermaLink="false">80ad0af3-c734-42f7-81f1-b2f583702089</guid>
             <pubDate>Sun, 07 Feb 2016 22:46:06 GMT</pubDate>
         </item>
