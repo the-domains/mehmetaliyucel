@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Mehmet Ali Yücel
+favicon: null
+layout_spectrum: 0.92519
+typography_spectrum: 0.85504
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.92519
 title: Mehmet Ali Yücel
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.0625
-  brandStrength: 0.6875
-  rhythmicContrast: 1
   brandColors:
-    - '#fdfdfd'
-    - '#696969'
-    - '#060606'
-    - '#9c9c9c'
-    - '#3f3f3f'
+    - '#000000'
+    - '#fb6300'
+    - '#fda408'
+    - '#fcf704'
+    - '#734675'
+  brandStrength: 0.6875
   lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
-favicon: null
-name: Mehmet Ali Yücel
-typography_spectrum: 0.85504
