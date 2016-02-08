@@ -35,7 +35,7 @@ color:
     - '#9c9c9c'
     - '#3f3f3f'
   brandStrength: 1
-  lightness: 1
+  lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 1
 purpose: []
