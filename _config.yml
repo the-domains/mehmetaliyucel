@@ -1,41 +1,41 @@
-name: Mehmet Ali Yücel
-favicon: null
-layout_spectrum: 0.92519
-typography_spectrum: 0.85504
+title: Mehmet Ali Yücel
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Mehmet Ali Yücel
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.7060932
+  brandStrength: 1
+  lightness: 0.6326165
   brandColors:
     - '#fdfdfd'
     - '#696969'
     - '#060606'
     - '#9c9c9c'
     - '#3f3f3f'
-  brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.5
   rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mehmet Ali Yücel
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.85504
+layout_spectrum: 1
